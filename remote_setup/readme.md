@@ -192,7 +192,6 @@ Follow these steps to configure the S3 backend and create the S3 bucket:
 
 You've successfully configured an S3 backend for Terraform state management and created an S3 bucket with versioning and encryption. This setup enhances the security and reliability of your Terraform state files.
 
-Feel free to adjust the configuration as needed for your specific use case.
 
 Happy Terraforming!
 
