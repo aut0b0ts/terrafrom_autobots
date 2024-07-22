@@ -137,7 +137,7 @@ Follow these steps to deploy the EC2 instance:
 
 You've successfully created and managed an AWS EC2 instance using Terraform! This guide should help you get started with basic Terraform operations and AWS resource management.
 
-Feel free to modify the configuration to suit your needs and explore more advanced Terraform features.
+
 
 Happy Terraforming!
 
